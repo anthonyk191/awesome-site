@@ -2,4 +2,7 @@
 Odin Project Lessons: Landing Page
 Version 1.0
 
-Note* This site is a sandbox environment for testing and development purposes only. Any content, features, or functionality are purely for demonstration and testing. 
+Note* 
+This site is a sandbox environment for testing and development purposes only. 
+Any content, features, or functionality are purely for demonstration and testing.
+Video games displayed on the website are made collaboratively by @anthonyk191 and @jucobee
